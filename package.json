@@ -1,0 +1,12 @@
+{
+  "name": "rdf-quad",
+  "version": "1.0.0",
+  "description": "A convenience constructor for RDF quads",
+  "main": "index.js",
+  "repository": "git@github.com:rubensworks/rdf-quad.js.git",
+  "author": "Ruben Taelman <rubensworks@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "rdf-data-model": "^1.0.0"
+  }
+}
