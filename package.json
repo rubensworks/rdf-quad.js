@@ -7,6 +7,7 @@
   "author": "Ruben Taelman <rubensworks@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "rdf-data-model": "^1.0.0"
+    "rdf-data-model": "^1.0.0",
+    "rdf-string": "1.0.0"
   }
 }
