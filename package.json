@@ -1,6 +1,6 @@
 {
   "name": "rdf-quad",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A convenience constructor for RDF quads",
   "main": "index.js",
   "repository": "git@github.com:rubensworks/rdf-quad.js.git",
