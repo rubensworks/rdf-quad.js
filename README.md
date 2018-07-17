@@ -1,6 +1,6 @@
 # RDF Quad
 
-[![npm version](https://badge.fury.io/js/rdf-quad.svg)](https://www.npmjs.com/package/rdf-quad)
+[![npm version](https://badge.fury.io/js/rdf-quad.svg)](https://www.npmjs.com/package/rdf-quad) [![Greenkeeper badge](https://badges.greenkeeper.io/rubensworks/rdf-quad.js.svg)](https://greenkeeper.io/)
 
 A convenience constructor for RDF quads based on string-based terms, as done by [RDF-String](https://github.com/rubensworks/rdf-string.js).
 
