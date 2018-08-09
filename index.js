@@ -1,4 +1,4 @@
-var factory = require('rdf-data-model');
+var factory = require('@rdfjs/data-model');
 var RdfTerm = require('rdf-string');
 
 module.exports = function(s, p, o, g) {
