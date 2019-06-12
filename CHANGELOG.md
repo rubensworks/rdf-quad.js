@@ -1,6 +1,12 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+<a name="v1.4.0"></a>
+## [v1.4.0](https://github.com/rubensworks/rdf-quad.js/compare/v1.3.0...v1.4.0) - 2019-06-12
+
+### Added
+* [Accept JS primitives in object position](https://github.com/rubensworks/rdf-quad.js/commit/96de575900558c350fd4585ac4f1424c658c3020)
+
 <a name="v1.3.0"></a>
 ## [v1.3.0](https://github.com/rubensworks/rdf-quad.js/compare/v1.2.2...v1.3.0) - 2018-11-08
 
