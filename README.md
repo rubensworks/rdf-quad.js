@@ -28,6 +28,9 @@ quad('http://example.org/subject', 'http://example.org/predicate', 123);
 
 // Object is a boolean
 quad('http://example.org/subject', 'http://example.org/predicate', true);
+
+// Subject is a nested quad
+quad('<<ex:s ex:p ex:o>>', 'http://example.org/predicate', 'http://example.org/object');
 ```
 
 ## License

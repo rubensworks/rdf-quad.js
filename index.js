@@ -1,4 +1,4 @@
-var factory = require('@rdfjs/data-model');
+var factory = new (require('rdf-data-factory').DataFactory)();
 var RdfTerm = require('rdf-string');
 var toRdfLiteral = require("rdf-literal").toRdf;
 
