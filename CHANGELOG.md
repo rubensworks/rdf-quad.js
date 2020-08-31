@@ -1,6 +1,12 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+<a name="v1.5.0"></a>
+## [v1.5.0](https://github.com/rubensworks/rdf-quad.js/compare/v1.4.0...v1.5.0) - 2020-08-31
+
+### Added
+* [Add support for nested quads](https://github.com/rubensworks/rdf-quad.js/commit/779f7db1be7675e516286e1757e5cad3e40d0983)
+
 <a name="v1.4.0"></a>
 ## [v1.4.0](https://github.com/rubensworks/rdf-quad.js/compare/v1.3.0...v1.4.0) - 2019-06-12
 

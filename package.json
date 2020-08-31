@@ -1,6 +1,6 @@
 {
   "name": "rdf-quad",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "description": "A convenience constructor for RDF quads",
   "keywords": [
     "rdf",
